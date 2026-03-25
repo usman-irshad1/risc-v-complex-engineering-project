@@ -1,0 +1,16 @@
+# Vivado Auto-Generated Files & Directories
+.Xil/
+*.jou
+*.log
+*.pb
+*.str
+xsim.dir/
+*.wdb
+*.vcd
+*.app
+.vs/
+*.zip
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
