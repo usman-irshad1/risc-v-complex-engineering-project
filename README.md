@@ -94,14 +94,7 @@ graph TD
 
 ---
 
-## Speech Therapy & Assistive Biomedical Application
-
-### Real-World Engineering Purpose
-This RISC-V processor architecture was engineered as part of a **Complex Engineering Project (CEP)** focused on **Speech Therapy & Assistive Acoustic Processing**:
-
-- **Real-Time Speech Signal Processing**: Designed to execute digital signal processing (DSP) algorithms for speech rehabilitation, pitch detection, and acoustic formant tracking.
-- **Hardware Acceleration for Vocal Feedback**: Leverages onboard Hardware Multipliers (`Mul.sv`) and high-speed ALU logic to calculate real-time frequency analysis and vocal intensity feedback for speech pathology patients.
-- **Assistive Biomedical Embedded Processor**: Functions as an energy-efficient embedded controller for wearable or portable speech training devices assisting patients with articulation disorders and vocal rehabilitation.
+---
 
 ## Author & Contact Details
 
